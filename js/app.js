@@ -117,11 +117,27 @@
 
 // do while loop
 
-let i = 0;
-do {
-    console.log(i);
-    i++;
-} while (i <= 10);
+// let i = 0;
+// do {
+//     console.log(i);
+//     i++;
+// } while (i <= 10);
 
 //---------------------------------------------
+
+// functions
+
+// function add(x, y) {
+//     return x + y;
+// }
+
+// let result = add(10, 20);
+// console.log(result);
+
+
+// public static String add(int x, int y) {
+//     return x + y;
+// }
+
+// -------------------------------------------
 
