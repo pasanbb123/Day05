@@ -66,33 +66,42 @@
 
 // if else  
 
-let x = 10;
-let y = 20;
+// let x = 10;
+// let y = 20;
 
-if (x > y) {
-    console.log("x is greter than y");
-}else if ( x< y) {
-    console.log("x is lesser than y");
-}else{
-    console.log("x is equal to y");    
-}
+// if (x > y) {
+//     console.log("x is greter than y");
+// }else if ( x< y) {
+//     console.log("x is lesser than y");
+// }else{
+//     console.log("x is equal to y");    
+// }
 
-// switch statement
+// // switch statement
 
- let day = 1;
+//  let day = 1;
 
- switch (day) {
-     case 1:
-         console.log("Monday");
-         break;
-    case 2:
-        console.log("Tuesday");
-        break;
-    case 3:
-        console.log("Wednesday");
-        break;
-    default:
-        console.log("Invalid day");
-}
+//  switch (day) {
+//      case 1:
+//          console.log("Monday");
+//          break;
+//     case 2:
+//         console.log("Tuesday");
+//         break;
+//     case 3:
+//         console.log("Wednesday");
+//         break;
+//     default:
+//         console.log("Invalid day");
+// }
 
 // -------------------------------------------
+
+// for loop 
+
+// for (let i = 0; i <= 10; i++) {
+//     console.log(i);
+// }
+
+// -------------------------------------------
+
