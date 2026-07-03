@@ -49,3 +49,15 @@
 // let y = "11";
 
 // console.log(x===y);
+
+//----------------------------------------------------
+
+// logic operators
+
+// & | || | !
+
+// if (!false) {
+//     console.log("true");
+// } else {
+//     console.log("false");
+// }
