@@ -61,3 +61,19 @@
 // } else {
 //     console.log("false");
 // }
+
+//--------------------------------------------------
+
+// if else  
+
+let x = 10;
+let y = 20;
+
+if (x > y) {
+    console.log("x is greter than y");
+}else if ( x< y) {
+    console.log("x is lesser than y");
+}else{
+    console.log("x is equal to y");
+    
+}
